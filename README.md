@@ -1,3 +1,3 @@
 # dio-java-basico
-Repositorio para armazenar todo o conteudo do curso de Java Basico
+Repositorio para teste do meu primeiro commit.
 Alterando o conteudo de um arquivo de forma local
